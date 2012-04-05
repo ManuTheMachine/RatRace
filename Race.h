@@ -1,6 +1,6 @@
 /* 
  * File:   Race.h
- * Author: manuel
+ * Author: manuel themachine
  *
  * Created on 21. März 2012, 20:31
  */
